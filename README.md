@@ -26,4 +26,4 @@ I'm always interested in connecting with other developers and collaborating on n
 
 ## 📈 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=bszlacht&show_icons=true&theme=dark) 
+[![Bartosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bszlacht)](https://github.com/bszlacht/github-readme-stats)
