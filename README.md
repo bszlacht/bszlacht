@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am currently doing my CS Major on AGH WIEiT :notebook:.
+
+⋅⋅* ⚡ Currently looking for a job in fields of Computer Science like Software Development, Machine Learning, Data Analyst/Engineer.
 <!--
 **bszlacht/bszlacht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-asd
+
