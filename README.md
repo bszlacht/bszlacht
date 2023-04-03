@@ -2,13 +2,13 @@
 
 I'm a computer science student (currently doing Master's Degree at AGH WIEiT). I have experience working with a variety of programming languages and technologies, including Python, JavaScript, Java and C/C++.
 
-## 🔭 Current Projects
+## 🚀 Projects I am proud of:
 
 - **Project A:** A web application that uses machine learning to predict stock prices based on historical data.
 - **Project B:** An e-commerce platform that uses blockchain technology to securely process transactions.
 - **Project C:** A mobile app that helps users track their daily water intake and reminds them to drink more water throughout the day.
 
-## 🌱 What I'm Learning
+## 📈 What I'm Learning
 
 I'm currently learning more about:
 
@@ -20,9 +20,8 @@ I'm currently learning more about:
 
 I'm always interested in connecting with other developers and collaborating on new projects. You can reach out to me on:
 
-- **LinkedIn:** [linkedin.com/in/john-doe](https://www.linkedin.com/in/john-doe/)
-- **Twitter:** [@johndoe_dev](https://twitter.com/johndoe_dev)
-- **Email:** john.doe@gmail.com
+- **LinkedIn:** [linkedin.com/in/john-doe](https://www.linkedin.com/in/bartosz-szlachta-00975a265/)
+- **Email:** bartosz.szlachta.it@gmail.com
 
 ## 📈 GitHub Stats
 
