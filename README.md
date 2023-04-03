@@ -20,7 +20,7 @@ I'm currently learning more about:
 
 I'm always interested in connecting with other developers and collaborating on new projects. You can reach out to me on:
 
-- **LinkedIn:** [linkedin.com/in/john-doe](https://www.linkedin.com/in/bartosz-szlachta-00975a265/)
+- **LinkedIn:** [linkedin.com/in/bartosz-szlachta](https://www.linkedin.com/in/bartosz-szlachta-00975a265/)
 - **Email:** bartosz.szlachta.it@gmail.com
 
 ## 📈 GitHub Stats
