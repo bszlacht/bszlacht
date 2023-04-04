@@ -4,17 +4,17 @@ I'm a computer science student (currently doing Master's Degree at AGH WIEiT). I
 
 ## 🚀 Projects I am proud of:
 
-- **Project A:** A web application that uses machine learning to predict stock prices based on historical data.
-- **Project B:** An e-commerce platform that uses blockchain technology to securely process transactions.
-- **Project C:** A mobile app that helps users track their daily water intake and reminds them to drink more water throughout the day.
+- **Project A:** TODO
+- **Project B:** TODO
+- **Project C:** TODO
 
 ## 📈 What I'm Learning
 
 I'm currently learning more about:
 
-- **Data Science:** I'm taking an online course on data science to improve my skills in machine learning and data analysis.
-- **Cloud Computing:** I'm exploring cloud computing platforms like AWS and Azure to learn more about deploying and scaling applications in the cloud.
-- **UI/UX Design:** I'm studying UI/UX design principles to improve the user experience of the applications I create.
+- **ML:** TODO
+- **Cloud Computing:** TODO
+- **Kubernetes:** TODO
 
 ## 💬 Get in Touch
 
