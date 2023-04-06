@@ -7,6 +7,8 @@ I'm a computer science student (currently doing Master's Degree at AGH WIEiT). I
 - **BPMN Modeler:** Website created to make bussines analyst life easier. Creates sound bussines proces models via filtering algorithm and allows the user to manipulate created diagrams.
 - **Table Recognition in PDF Invoices:** ML model that finds bordered and borderless tables in PDF invoices and then displays data from those tables.
 - **Escape Simulation:** Simulation of escape from custom building with other elements like fire and smoke.
+- **Gardening Website:** Site that allows user to monitor their plants e.g watering, special characteristics. (Group project)
+
 
 ## 📈 What I'm Learning
 
