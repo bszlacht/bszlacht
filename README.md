@@ -4,7 +4,7 @@ I'm a computer science student (currently doing Master's Degree at AGH WIEiT). I
 
 ## 🚀 Projects I am proud of:
 
-- **Project A:** TODO
+- **BPMN Modeler:** Website created to make bussines analyst life easier. Creates sound bussines proces models via filtering algorithm and allows the user to manipulate created diagrams.
 - **Project B:** TODO
 - **Project C:** TODO
 
